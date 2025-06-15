@@ -1,3 +1,4 @@
+#simple100coinFlip
 import random
 
 for i in range(100):
