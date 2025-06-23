@@ -1,0 +1,11 @@
+ages = [6, 9, 13, 47, 32, 94]
+ages.sort()
+
+print(ages)
+
+first = ages[0]
+last = ages[-1]
+print(first)
+print(last)
+#It will raise assertion error if false.
+assert first < last

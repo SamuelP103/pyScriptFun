@@ -15,6 +15,7 @@ try:
     box_print('O', 20, 5)
     box_print('x', 1, 3)
     box_print('ZZ', 3, 3)
+#Makes variable
 except Exception as err:
     print('Exception ' + str(err) + ' happened')
 try:
